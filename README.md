@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+This is following the tutorial at https://reactjs.org/tutorial/tutorial.html .  For posterity, this is on Pop!_OS 22.04 LTS .
+
+Note that when running `npx create-react-app my-app` from https://reactjs.org/docs/create-a-new-react-app.html#create-react-app this initially saying that node is too old of a version.  See https://stackoverflow.com/questions/70376623/create-react-app-says-create-react-app-requires-node-14-or-higher-fixing-node to fix.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
